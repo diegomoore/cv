@@ -7,11 +7,8 @@ Head of Engineering — Digital Transformation Leader — Venture Builder
 
 <diego@mibstar.co.uk> 📱[+447780866310](http://wa.me/+447780866310) 🔗 [LinkedIn](http://www.linkedin.com/in/diegomoore) 🌎 [mibstar.co.uk](http://www.mibstar.co.uk)📍W/Sussex, UK
 
-<nav>
 
-**Jump to:** [Professional Experience](#professional-experience) ↓ [Skills](#skills) ↓ [Education](#education) ↓ [Awards](#awards) ↓
-
-</nav>
+<nav><strong>Jump to:</strong> <a href="#professional-experience">Professional Experience</a> ⤦ <a href="#skills">Skills</a> ⤦ <a href="#education">Education</a> ⤦ <a href="#awards">Awards</a> ⤦ </nav>
 
 ## Summary
 

@@ -54,7 +54,7 @@ blockquote#strapline {
 
 p a:after {
 	margin:0 2px 0 4px;
-	background-image: url('assets/icons/arrow-up-right-from-square-solid.svg');
+	background-image: url('../assets/icons/arrow-up-right-from-square-solid.svg');
     background-size: 8px 8px;
     display: inline-block;
     width: 8px; 
