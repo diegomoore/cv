@@ -16,7 +16,6 @@ Highly versatile Polymath Technologist with a strong background in building prod
 At 13, I began building and selling PCs at school. Over the past 24+ years, I've honed my skills across multiple technology stacks (.NET, LAMP, Java, MACH) and platforms (Enterprise CMS, e-commerce, CRM, Mobile, IoT,
 Cloud Native, etc.). My expertise extends to pre-sales, consulting, meticulous product road-maps, the vision through software architecture, and executing it all with strong team leadership.
 
-
 **Key Strengths:**
 
 * Strong expertise in software architecture and multiple technology stacks. Reviewing technical product options, solutions and reusable building blocks
@@ -106,7 +105,6 @@ My involvement started early at the pitch process supporting new business as wel
 
 Gathering input from technical analysts and platform leads, I established best practices within Precedent.
 
-
 **Key Clients:** ![](assets/key-clients/precedent.svg "Key Clients")
 
 <details open><summary>
@@ -145,14 +143,13 @@ Other areas of responsibilities included ownership of the hosting infrastructure
 <blockquote>A very difficult challenge is to find a senior technologist that can lead a team within a creative culture. If you see Diego for the first time you would think he's an artist, but behind his coolness lies technical genius...or technical creative genius I must say. I witnessed first hand how he successfully managed to deliver high quality projects during high stress circumstances for high level global brands. He proved effective integration with visual design and UI development distributed teams while manoeuvring ever changing client requirements...all without loosing sight of his integrity and leadership character. <br><br>
 
 If you are looking for technical creative genius, I strongly suggest you don't waste the opportunity to have Diego on your team. <br>
+<strong>Alejandro Gomez</strong> — Founder, Zemoga
 
-<strong>Alejandro Gomez</strong> — Founder, Zemoga<hr>
+<hr>
 
 Diego was a joy to work with, helping illustrate complex technical problems in easy language and clear solutions <br><br>
 <strong>Chris Altman</strong> — Director of International Digital Media - A+E Networks, NY</blockquote>
-
 </details>
-
 
 ### Director Application Development ![zemoga](assets/logos/zemoga.svg "Zemoga logo")
 
@@ -209,9 +206,7 @@ For those who have money to invest wisely, he has a clarity of vision and sparkl
 
 <strong>Warren Wysocki</strong> — Managing Director, EurekaStep</blockquote>
 
-
 <h3> Web Applications Developer (2003) > IT Manager (2004) <img alt="eurekastep" src="assets/logos/eurekastep.png" title="EurekaStep logo"></h3>
-
 <p><strong>EurekaStep</strong> 📍 Horsham ⏳ Aug 2003 – Mar 2006</p>
 
 <p>Balanced inward facing responsibilities of Managing IT alongside the increasingly more important outward responsibilities to ensure the IT needs of clients and their projects were being met for web application projects.</p>
@@ -237,7 +232,6 @@ I would highly recommend Diego as an innovator who will always be driven to be o
 <h4>Recomendation</h4>
 <blockquote>Diego is an extremely capable and dependable problem-solver and has wide-ranging experience in the delivery of technical solutions over the Internet.<br><br>
 <strong>Dan White</strong> — Development Manager, Digital Media & Motion</blockquote>
-
 </details>
 
 ## Skills
@@ -267,7 +261,6 @@ I would highly recommend Diego as an innovator who will always be driven to be o
 * Empathy & Self awareness
 * Financial Literacy
 
-
 ## Education
 * **The 21 Irrefutable Laws of Leadership, John Maxwell** — Year long effective leadership course, using real-life examples and insights gained from his decades of experience as a leadership coach.
 
@@ -281,5 +274,7 @@ I would highly recommend Diego as an innovator who will always be driven to be o
 * **Finalist at Cannes** - As IT Manager for EurekaStep, my last involvement was a significant one – representing the company in a prestigious competition sponsored by the BBC and offered exclusively to its preferred supplier list on emerging Web 2.0 technologies.
 
 * Built several hand-coded websites towards which I had began to work on before I had left college. One of the sites won an award from the South East England Development Agency (SEEDA)
+
 ---
+
 [Back to Top ↑](#top)
