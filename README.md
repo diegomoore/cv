@@ -26,8 +26,6 @@ Cloud Native, etc.). My expertise extends to pre-sales, consulting, meticulous p
 * Passionate about driving innovation and pushing the boundaries of technology
 * Exposure to most industries: Publishing, Media, Telecoms, Entertainment, FinTech, Startups, Government, Pharma & Healthcare
 
-
-
 ## Professional Experience
 
 ### Founder & Principal Consultant ![mibstar](assets/logos/mibstar.svg "Mibstar Ventures logo")
@@ -113,13 +111,18 @@ Gathering input from technical analysts and platform leads, I established best p
 **Key Clients:** ![](assets/key-clients/precedent.svg "Key Clients")
 
 <details open>
-<summary><h4>Reccomendation:</h4>
+
+<summary>
+
+#### Reccomendation:
+
 </summary>
 
-<blockquote>Diego is great to work with, he brings attention to detail and insights into his work from the experience has from working on so many projects. He is keen to bring people together and work as a team to deliver... <br><br>
-I find Diego is hard-working and very keen. I can recommend him as he is great to work with. <br><br>
- 
-<strong>Hardip Bhamra</strong> — Managing Director (UK), Precedent</blockquote>
+> Diego is great to work with, he brings attention to detail and insights into his work from the experience has from working on so many projects. He is keen to bring people together and work as a team to deliver... <br><br>
+> I find Diego is hard-working and very keen. I can recommend him as he is great to work with. <br>
+>
+> **Hardip Bhamra** — Managing Director (UK), Precedent
+
 </details>
 
 ### Director of Technology ![zemoga](assets/logos/zemoga.svg "Zemoga logo")
