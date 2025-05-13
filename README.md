@@ -5,7 +5,7 @@ Head of Engineering — Digital Transformation Leader — Venture Builder
 
 # <img src="assets/profile-picture-small.png" alt="Profile-Picture" id="top">Diego Moore
 
-<diego@mibstar.co.uk> 📱[+447780866310](http://wa.me/+447780866310) 🔗 [LinkedIn](http://www.linkedin.com/in/diegomoore) 🌎 [mibstar.co.uk](http://www.mibstar.co.uk)📍W/Sussex, UK
+<diego@mibstar.co.uk> 🔗 [LinkedIn](http://www.linkedin.com/in/diegomoore) 🌎 [mibstar.co.uk](http://www.mibstar.co.uk)📍W/Sussex, UK
 
 <nav><strong>Jump to:</strong> <a href="#professional-experience">Professional Experience</a> ⤦ <a href="#skills">Skills</a> ⤦ <a href="#education">Education</a> ⤦ <a href="#awards">Awards</a> ⤦ </nav>
 
@@ -281,5 +281,5 @@ I would highly recommend Diego as an innovator who will always be driven to be o
 * **Finalist at Cannes** - As IT Manager for EurekaStep, my last involvement was a significant one – representing the company in a prestigious competition sponsored by the BBC and offered exclusively to its preferred supplier list on emerging Web 2.0 technologies.
 
 * Built several hand-coded websites towards which I had began to work on before I had left college. One of the sites won an award from the South East England Development Agency (SEEDA)
-
+---
 [Back to Top ↑](#top)
