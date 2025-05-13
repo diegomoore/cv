@@ -3,10 +3,9 @@
 Head of Engineering — Digital Transformation Leader — Venture Builder
 </blockquote>
 
-# <img src="assets/profile-picture-small.png" alt="Profile-Picture" id="top"> Diego Moore
+# <img src="assets/profile-picture-small.png" alt="Profile-Picture" id="top">Diego Moore
 
 <diego@mibstar.co.uk> 📱[+447780866310](http://wa.me/+447780866310) 🔗 [LinkedIn](http://www.linkedin.com/in/diegomoore) 🌎 [mibstar.co.uk](http://www.mibstar.co.uk)📍W/Sussex, UK
-
 
 <nav><strong>Jump to:</strong> <a href="#professional-experience">Professional Experience</a> ⤦ <a href="#skills">Skills</a> ⤦ <a href="#education">Education</a> ⤦ <a href="#awards">Awards</a> ⤦ </nav>
 
@@ -147,10 +146,9 @@ Other areas of responsibilities included ownership of the hosting infrastructure
 
 If you are looking for technical creative genius, I strongly suggest you don't waste the opportunity to have Diego on your team. <br>
 
-<strong>Alejandro Gomez</strong> — Founder, Zemoga</blockquote><br>
+<strong>Alejandro Gomez</strong> — Founder, Zemoga<hr>
 
-<blockquote>Diego was a joy to work with, helping illustrate complex technical problems in easy language and clear solutions <br><br>
-
+Diego was a joy to work with, helping illustrate complex technical problems in easy language and clear solutions <br><br>
 <strong>Chris Altman</strong> — Director of International Digital Media - A+E Networks, NY</blockquote>
 
 </details>
