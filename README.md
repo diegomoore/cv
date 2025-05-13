@@ -204,7 +204,7 @@ Full CV can be found online:
 
 <p><strong>Key Clients:</strong> <img src="assets/key-clients/eurekastep.svg" title="Key Clients"></p>
 
-<h4>Recomendation:</h4>
+<h4>Recomendation</h4>
 <blockquote>It's been a long hard slog, but sheer guts, determination and proven commercial results have helped Diego to become one of the greatest technical architect's in the business. He's an amazing visionary and I've lost count of the amount of times he's been pipped to the post on technical ideas he's been working on by the heady crew at either the BBC or Apple! <br><br>
 
 For those who have money to invest wisely, he has a clarity of vision and sparkling understanding that would make even some of the great whites stand up and take notice.<br><br>
@@ -220,7 +220,7 @@ For those who have money to invest wisely, he has a clarity of vision and sparkl
 
 <p><strong>Key Clients:</strong> <img src="assets/key-clients/eurekastep2.svg" title="Key Clients"></p>
 
-<h4>Recomendation:</h4>
+<h4>Recomendation</h4>
 <blockquote>When carrying delivery and commercial responsibility for blue chip client engagements, bleeding edge/emergent technologies are typically seen as being a high risk proposition. <br><br>
 
 Having worked with Diego (2001-2008) on the successful sale and delivery of many ‘never been done before’ projects, as our Technical Director he carried a maturity and realism as to which technological boundaries should be pushed. <br><br>
@@ -236,7 +236,7 @@ I would highly recommend Diego as an innovator who will always be driven to be o
 <h3>Web Developer</h3>
 <p><strong>Digital Media & Motion</strong> ⏳ Sep 2001 – Aug 2003</p>
 
-<h4>Recomendation:</h4>
+<h4>Recomendation</h4>
 <blockquote>Diego is an extremely capable and dependable problem-solver and has wide-ranging experience in the delivery of technical solutions over the Internet.<br><br>
 <strong>Dan White</strong> — Development Manager, Digital Media & Motion</blockquote>
 
