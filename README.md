@@ -148,7 +148,7 @@ Cloud Native, etc.). My expertise extends to pre-sales, consulting, meticulous p
 
 ### Founder & Principal Consultant ![mibstar](assets/logos/mibstar.svg "Mibstar Ventures logo")
 
-**Mibstar Ventures** *London | 2016 – Present* 
+**Mibstar Ventures** 📍 London ⏳ 2016 – Present
 
 A boutique Technology Consultancy, Mibstar Ventures
 My personal Venture Building vessel I've established to capture on-going collaborations in start- up capacity over the years some of which are stealth or incubation phase.
@@ -157,7 +157,7 @@ Previous projects below
 
 ### Director of Backend Development ![monks](assets/logos/monks-technology-services.svg "Monks Technology Services logo")
 
-**Monks Technology Services** *(formerly Zemoga) | Bogotá | Remote | Sep 2019 – Jun 2024* 
+**Monks Technology Services** *(formerly Zemoga)* 📍  Bogotá / Remote ⏳ Sep 2019 – Jun 2024 
 
 Returned to Zemoga (now Monks Technology Services) to re-establish the strength of the backend development practice. I was part of the pitch team for their largest opportunity in their then 17 year history, a ramp-up of 150 team members for Morningstar to nearshore their offshore dependency with China.
 
@@ -171,11 +171,9 @@ This coincided across the company with increased complexity in engineering proje
 
 **Key Clients:** ![](assets/key-clients/monks.svg "Key Clients")
 
-
-
 ### Technical Director *(Interim CTO)* ![](assets/logos/hello-daisy.png "Hello Daisy logo")
 
-**Hello Daisy** *(via Mibstar) | London | Oct 2018 – Aug 2019*
+**Hello Daisy** *(via Mibstar)* 📍 London ⏳ Oct 2018 – Aug 2019
 
 Having engaged previously on two occasions with Hello Daisy I was asked to come on board to cover for their CTO while an A series round was raised. My responsibilities included:
 
@@ -186,7 +184,7 @@ Having engaged previously on two occasions with Hello Daisy I was asked to come 
 
 ### Founder & Principal Consultant ![mibstar](assets/logos/mibstar.svg "Mibstar Ventures logo")
 
-**Mibstar Ventures** *London | Jun 2016 – Sep 2018* 
+**Mibstar Ventures** 📍 London ⏳ Jun 2016 – Sep 2018
 
 Having been empowered with my experience at Seth Godin’s AltMBA I pivoted Mibstar (formally Mibstar Technologies) to focus on Ventures where I’m able to apply my experience and passion for building digital products in start-up environments.
 
@@ -200,7 +198,7 @@ The variety of the ventures is indicative of the importance of spending time on 
 
 ### Technical Director (Fractional) ![](assets/logos/the-unit.svg "The Unit GB logo")
 
-**The Unit** *(via Mibstar) | Brighton | 2015 – 2016*
+**The Unit** *(via Mibstar)* 📍 Brighton ⏳ 2015 – 2016
 
 I was brought in to bolster the Technology team of this independent UX and Design agency, which was increasing their Financial Sector clients as well as expanding to larger and more complex projects.This required some insight and experience throughout from the pitch process all the way to implementation. Leading and expanding the relatively young team from front-end prototyping projects to full implementation of transactional e-commerce sites with associated integrations.
 
@@ -211,7 +209,7 @@ Establishing modern development practices, leveraging new tooling (Atlassian, AW
 
 ### Consultancy ![mibstar](assets/logos/mibstar.svg "Mibstar Ventures logo")
 
-**Mibstar Technologies** *| London | Mar 2015 – Apr 2015*
+**Mibstar Technologies** 📍 London ⏳ Mar 2015 – Apr 2015
 
 Working alongside a digital consultant as technical consultant supporting the newly appointed Chief Digital Officer of a FTSE-250 wholesaler that was undertaking a re-platform for Booker Group PLC.
 
@@ -219,7 +217,7 @@ I continue to provide support to several start-ups, with a focus in the shadow-b
 
 ### Lead Technical Consultant ![precedent](assets/logos/precedent.svg "Precedent logo")
 
-**Precedent** *London | Cardiff | Edinburgh | 2013 – 2015*
+**Precedent** 📍 London / Cardiff / Edinburgh ⏳ 2013 – 2015
 
 End-to-end technical consultant working alongside other business strategy and UX consultants, during all phases of delivery of digital strategies for Precedent clients.
 
@@ -246,7 +244,7 @@ Gathering input from technical analysts and platform leads, I established best p
 
 ### Director of Technology ![zemoga](assets/logos/zemoga.svg "Zemoga logo")
 
-**Zemoga** *Bogotá | NY | Feb 2012 – Sep 2013*
+**Zemoga** 📍 Bogotá / NY ⏳ Feb 2012 – Sep 2013
 
 In addition to leading the App Development department I took responsibility over the Technology Operations team as well as being active within the Sales support structure previously carried out by the CTO.
 
@@ -286,7 +284,7 @@ Other areas of responsibilities included ownership of the hosting infrastructure
 
 ###Director Application Development ![zemoga](assets/logos/zemoga.svg "Zemoga logo")
 
-**Zemoga** *Bogotá | NY | May 2011 – Jan 2012*
+**Zemoga** 📍 Bogotá / NY ⏳ May 2011 – Jan 2012
 
 Lead a multi-disciplinary development team providing support for digital strategies primarily for a US clientele. Diverse projects from campaign specific sites like the NYC Marathon, bespoke Drupal development, several e-commerce launches, native iOS apps and working with TeamSite ECM on several projects.
 
@@ -308,7 +306,7 @@ Working closely with the US Sales Team on pitches and technical pre-sales suppor
 
 ### Application & Systems Architect ![parliament](assets/logos/parliament.svg "UK Parliament logo")
 
-**UK Parliament** *Westminster | 2010 – 2011*
+**UK Parliament** 📍 Westminster ⏳ 2010 – 2011
 
 Joined a large in-house Applications & Development department which was running a £8m
 Procedural Data programme to upgrade bespoke business critical systems which support both
@@ -335,7 +333,7 @@ Full CV can be found online:
 
 ### Technical Director ![eurekastep](assets/logos/eurekastep.png "EurekaStep logo")
 
-**EurekaStep** *| London | Apr 2006 – Mar 2010*
+**EurekaStep** 📍 London ⏳ Apr 2006 – Mar 2010
 
 Strengthened and developed a more in-depth technical service offering into this Digital Media Agency to compliment the growing and expanding client requirements. Leveraging in-house skills and near-shore partners using both off-the-shelf products and bespoke development depending on suitability.
 
@@ -349,7 +347,7 @@ Strengthened and developed a more in-depth technical service offering into this 
 
 ### Web Applications Developer (2003) > IT Manager (2004) ![eurekastep](assets/logos/eurekastep.png "EurekaStep logo")
 
-**EurekaStep** *| Horsham | Aug 2003 – Mar 2006*
+**EurekaStep** 📍 Horsham ⏳ Aug 2003 – Mar 2006
 
 Balanced inward facing responsibilities of Managing IT alongside the increasingly more important outward responsibilities to ensure the IT needs of clients and their projects were being met for web application projects.
 
@@ -371,7 +369,7 @@ Balanced inward facing responsibilities of Managing IT alongside the increasingl
 
 
 ### Web Developer
-**Digital Media & Motion** *| Sep 2001 – Aug 2003*
+**Digital Media & Motion** ⏳ Sep 2001 – Aug 2003
 
 #### Recomendation:
 > Diego is an extremely capable and dependable problem-solver and has wide-ranging experience in the delivery of technical solutions over the Internet.
