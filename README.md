@@ -1,3 +1,11 @@
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S8RK8DJ0VS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-S8RK8DJ0VS');
+</script>
 <link type="text/css" rel="stylesheet" href="assets/style.css" />
 > Head of Engineering — Digital Transformation Leader — Venture Builder <br>
 > <diego@mibstar.co.uk> 🔗 [LinkedIn](http://www.linkedin.com/in/diegomoore) 🌎 [mibstar.co.uk](http://www.mibstar.co.uk)📍W/Sussex, UK
