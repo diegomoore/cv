@@ -1,116 +1,4 @@
-<style>
-@media print {    
-	body { font-size: 0.7rem; }
-	.onlyPrint { display: block; }
-
-	details, details > * { display:none !important; }
-	details { display:none; margin: 0 !important; }
-	nav, body>p:last-of-type
-		{ display:none; margin: 0; }
-
-    img[src*="logos"] {
-        width: 2cm;
-        max-width: 2cm;
-        height: auto;
-        border: color red 1px;
-    }
-
-    @page {
-      size: A4; /* DIN A4 standard, Europe */
-      margin: 0;
-    }
-    html, body {
-        width: 210mm;
-        /* height: 297mm; */
-        height: 282mm;
-        font-size: 11pt;
-        background: #FFF;
-        overflow: visible;
-    }
-    body {
-        padding-top: 15mm;
-    }
-}
-
-@media screen {    
-	.onlyPrint { display: none !important; }
-}
-
-h1, h3, h4 {color:#0062c9;}
-
-h1 		{ font-size:1.4rem; margin-bottom:-40px;}
-h2 		{ font-size:1.3rem; color:#013f76; }
-img 	{ margin-left:1rem; vertical-align:middle;}
-ul  	{ list-style-type: circle;}
-
-h1~p:nth-of-type(1), nav {
-    text-align:right;
-}
-
-blockquote { font-style: italic}
-blockquote#strapline { 
-	float:right; 
-	margin-top:70px; color:#013f76; 
-	font-style: italic;}
-
-p a:after {
-	margin:0 2px 0 4px;
-	background-image: url('assets/icons/arrow-up-right-from-square-solid.svg');
-    background-size: 8px 8px;
-    display: inline-block;
-    width: 8px; 
-    height: 8px;
-    content:"";
-}
-
-nav a:after { background-image:none; margin:0; width:0;}
-
-details {
-    border: 1px dashed silver;
-    border-radius: 0.5rem;
-    padding: 0 1rem;
-    background-color:#f8f8f8;
-}
-
-details > summary {
-    list-style-type: '▼ ';
-    color:#0062c9;
-}
-
-details[open] > summary {
-    list-style-type: '▲ ';
-    color:#0062c9;
-}
-
-details[open] > summary {
-    margin-bottom: 0.5rem;
-}
-
-details blockquote { letter-spacing: normal; }
-
-img[src*="logos"] {
-    width: 100%;
-    max-width: 110px;
-    height: auto;
-    float: right;
-}
-
-img[src*="key-clients/"] {width:500px;}
-img[src*="key-clients/the-unit.svg"],
-img[src*="key-clients/precedent.svg"],
-img[src*="key-clients/zemoga.svg"]  
-	{width:400px; }
-img[src*="key-clients/eurekastep.svg"] { width:300px;}
-img[src*="key-clients/eurekastep2.svg"] { width:340px;}
-
-img[alt=Profile-Picture] { max-width: 120px;  margin: 0px 10px; vertical-align:middle; }
-img[alt=monks] 			{ max-width: 200px; float:right;}
-img[alt=precedent], 
-img[alt=parliament]		{ max-width:150px; }
-img[alt=zemoga] 			{ max-width:125px; }
-img[alt=compassion] 	{ max-width:120px; margin: -1rem 1rem -0.5rem 0; vertical-align:bottom; float: left;}
-
-</style>
+<link type="text/css" rel="stylesheet" href="assets/style.css" />
 <blockquote id="strapline">
 Head of Engineering — Digital Transformation Leader — Venture Builder
 </blockquote>
@@ -118,7 +6,6 @@ Head of Engineering — Digital Transformation Leader — Venture Builder
 # <img src="assets/profile-picture-small.png" alt="Profile-Picture" id="top"> Diego Moore
 
 <diego@mibstar.co.uk> 📱[+447780866310](http://wa.me/+447780866310) 🔗 [LinkedIn](http://www.linkedin.com/in/diegomoore) 🌎 [mibstar.co.uk](http://www.mibstar.co.uk)📍W/Sussex, UK
-
 
 <nav>
 
@@ -282,7 +169,7 @@ Other areas of responsibilities included ownership of the hosting infrastructure
 </details>
 
 
-###Director Application Development ![zemoga](assets/logos/zemoga.svg "Zemoga logo")
+### Director Application Development ![zemoga](assets/logos/zemoga.svg "Zemoga logo")
 
 **Zemoga** 📍 Bogotá / NY ⏳ May 2011 – Jan 2012
 
