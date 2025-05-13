@@ -110,9 +110,8 @@ Gathering input from technical analysts and platform leads, I established best p
 
 **Key Clients:** ![](assets/key-clients/precedent.svg "Key Clients")
 
-<details open>
-<summary>
-<h4>>Reccomendation:</h4>
+<details open><summary>
+<h4>Reccomendation</h4>
 </summary>
 
 <blockquote>Diego is great to work with, he brings attention to detail and insights into his work from the experience has from working on so many projects. He is keen to bring people together and work as a team to deliver... <br><br>
@@ -140,8 +139,8 @@ Other areas of responsibilities included ownership of the hosting infrastructure
 
 **Key Clients:** ![](assets/key-clients/zemoga.svg "Key Clients")
 
-<details open>
-<summary><h4>Reccomendations:</h4>
+<details open><summary>
+<h4>Reccomendations</h4>
 </summary>
 
 <blockquote>A very difficult challenge is to find a senior technologist that can lead a team within a creative culture. If you see Diego for the first time you would think he's an artist, but behind his coolness lies technical genius...or technical creative genius I must say. I witnessed first hand how he successfully managed to deliver high quality projects during high stress circumstances for high level global brands. He proved effective integration with visual design and UI development distributed teams while manoeuvring ever changing client requirements...all without loosing sight of his integrity and leadership character. <br><br>
@@ -167,8 +166,8 @@ Working closely with the US Sales Team on pitches and technical pre-sales suppor
 
 **Key Clients:** ![](assets/key-clients/zemoga2.svg "Key Clients")
 
-<details open>
-<summary><h4>Reccomendation:</h4>
+<details open><summary>
+<h4>Reccomendation</h4>
 </summary>
 
 <blockquote>Diego is the technologist that you want on your team. I've forever been impressed with his dedication, quick (and correct) decision making, dedication to his work and team. To manage development with very short to long timelines, you need someone with the high level of discipline and care that Diego brings to the table. He handles rapidly changing requirements with the level of agility that is required, yet is also keen on making sure that everything is well considered before moving forward. <br><br>
@@ -195,9 +194,7 @@ Full CV can be found online:
 <a href="http://diegomoore.github.io/CV">diegomoore.github.io/CV</a>
 </div>
 
-<details id="2010">
-
-<summary>
+<details id="2010"><summary>
 <h4>2001 – 2010</h4>
 </summary>
 
