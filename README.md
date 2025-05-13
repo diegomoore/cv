@@ -111,18 +111,15 @@ Gathering input from technical analysts and platform leads, I established best p
 **Key Clients:** ![](assets/key-clients/precedent.svg "Key Clients")
 
 <details open>
-
 <summary>
-
-#### Reccomendation:
-
+<h4>>Reccomendation:</h4>
 </summary>
 
-> Diego is great to work with, he brings attention to detail and insights into his work from the experience has from working on so many projects. He is keen to bring people together and work as a team to deliver... <br><br>
-> I find Diego is hard-working and very keen. I can recommend him as he is great to work with. <br>
->
-> **Hardip Bhamra** — Managing Director (UK), Precedent
+<blockquote>Diego is great to work with, he brings attention to detail and insights into his work from the experience has from working on so many projects. He is keen to bring people together and work as a team to deliver... <br><br>
 
+I find Diego is hard-working and very keen. I can recommend him as he is great to work with. <br>
+
+<strong>Hardip Bhamra</strong> — Managing Director (UK), Precedent</blockquote>
 </details>
 
 ### Director of Technology ![zemoga](assets/logos/zemoga.svg "Zemoga logo")
@@ -201,11 +198,8 @@ Full CV can be found online:
 <details id="2010">
 
 <summary>
-
-## 2001 – 2010
-
+<h4>2001 – 2010</h4>
 </summary>
-
 
 <h3> Technical Director <img alt="eurekastep" src="assets/logos/eurekastep.png" title="EurekaStep logo"></h3>
 <p><strong>EurekaStep</strong> 📍 London ⏳ Apr 2006 – Mar 2010</p>
