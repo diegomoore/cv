@@ -207,48 +207,47 @@ Full CV can be found online:
 </summary>
 
 
-### Technical Director ![eurekastep](assets/logos/eurekastep.png "EurekaStep logo")
+<h3> Technical Director <img alt="eurekastep" src="assets/logos/eurekastep.png" title="EurekaStep logo"></h3>
+<p><strong>EurekaStep</strong> 📍 London ⏳ Apr 2006 – Mar 2010</p>
+<p>Strengthened and developed a more in-depth technical service offering into this Digital Media Agency to compliment the growing and expanding client requirements. Leveraging in-house skills and near-shore partners using both off-the-shelf products and bespoke development depending on suitability.</p>
 
-**EurekaStep** 📍 London ⏳ Apr 2006 – Mar 2010
+<p><strong>Key Clients:</strong> <img src="assets/key-clients/eurekastep.svg" title="Key Clients"></p>
 
-Strengthened and developed a more in-depth technical service offering into this Digital Media Agency to compliment the growing and expanding client requirements. Leveraging in-house skills and near-shore partners using both off-the-shelf products and bespoke development depending on suitability.
+<h4>Recomendation:</h4>
+<blockquote>It's been a long hard slog, but sheer guts, determination and proven commercial results have helped Diego to become one of the greatest technical architect's in the business. He's an amazing visionary and I've lost count of the amount of times he's been pipped to the post on technical ideas he's been working on by the heady crew at either the BBC or Apple! <br><br>
 
-**Key Clients:** ![](assets/key-clients/eurekastep.svg "Key Clients")
+For those who have money to invest wisely, he has a clarity of vision and sparkling understanding that would make even some of the great whites stand up and take notice.<br><br>
 
-#### Recomendation:
->  It's been a long hard slog, but sheer guts, determination and proven commercial results have helped Diego to become one of the greatest technical architect's in the business. He's an amazing visionary and I've lost count of the amount of times he's been pipped to the post on technical ideas he's been working on by the heady crew at either the BBC or Apple! For those who have money to invest wisely, he has a clarity of vision and sparkling understanding that would make even some of the great whites stand up and take notice.
->
-> **Warren Wysocki** — Managing Director, EurekaStep
+<strong>Warren Wysocki</strong> — Managing Director, EurekaStep</blockquote>
 
 
-### Web Applications Developer (2003) > IT Manager (2004) ![eurekastep](assets/logos/eurekastep.png "EurekaStep logo")
+<h3> Web Applications Developer (2003) > IT Manager (2004) <img alt="eurekastep" src="assets/logos/eurekastep.png" title="EurekaStep logo"></h3>
 
-**EurekaStep** 📍 Horsham ⏳ Aug 2003 – Mar 2006
+<p><strong>EurekaStep</strong> 📍 Horsham ⏳ Aug 2003 – Mar 2006</p>
 
-Balanced inward facing responsibilities of Managing IT alongside the increasingly more important outward responsibilities to ensure the IT needs of clients and their projects were being met for web application projects.
+<p>Balanced inward facing responsibilities of Managing IT alongside the increasingly more important outward responsibilities to ensure the IT needs of clients and their projects were being met for web application projects.</p>
 
-**Key Clients:** ![](assets/key-clients/eurekastep2.svg "Key Clients")
+<p><strong>Key Clients:</strong> <img src="assets/key-clients/eurekastep2.svg" title="Key Clients"></p>
 
-#### Recomendation:
-> When carrying delivery and commercial responsibility for blue chip client engagements, bleeding edge/emergent technologies are typically seen as being a high risk proposition. 
-> 
-> Having worked with Diego (2001-2008) on the successful sale and delivery of many ‘never been done before’ projects, as our Technical Director he carried a maturity and realism as to which technological boundaries should be pushed. 
-> 
-> Selling technology solutions to large scale established organisations where they would be seen as early adopters, or even the industry test cases, became the norm and that drive for innovation brought an exciting, highly rewarding (and often challenging) market differentiation to our business model. 
-> 
-> Having worked in a Tier 1 IT company for the last 3 years, I can see that Diego’s ideas and technologies are now viewed as foundational for the next generation ICT delivery model. Concepts such as Open Source, Cloud Computing, Software as a Service, Collaboration etc are being grasped for the cost savings that they can realise in a challenging economic environment, particularly by the Public Sector. 
-> 
-> I would highly recommend Diego as an innovator who will always be driven to be one step ahead of the market. The wise move is to invest in his ideas.
->
-> **Iain McKay** — Chief Operating Officer (COO), EurekaStep
+<h4>Recomendation:</h4>
+<blockquote>When carrying delivery and commercial responsibility for blue chip client engagements, bleeding edge/emergent technologies are typically seen as being a high risk proposition. <br><br>
 
-### Web Developer
-**Digital Media & Motion** ⏳ Sep 2001 – Aug 2003
+Having worked with Diego (2001-2008) on the successful sale and delivery of many ‘never been done before’ projects, as our Technical Director he carried a maturity and realism as to which technological boundaries should be pushed. <br><br>
 
-#### Recomendation:
-> Diego is an extremely capable and dependable problem-solver and has wide-ranging experience in the delivery of technical solutions over the Internet.
-> 
-> **Dan White** — *Development Manager, Digital Media & Motion*
+Selling technology solutions to large scale established organisations where they would be seen as early adopters, or even the industry test cases, became the norm and that drive for innovation brought an exciting, highly rewarding (and often challenging) market differentiation to our business model. <br><br>
+
+Having worked in a Tier 1 IT company for the last 3 years, I can see that Diego’s ideas and technologies are now viewed as foundational for the next generation ICT delivery model. Concepts such as Open Source, Cloud Computing, Software as a Service, Collaboration etc are being grasped for the cost savings that they can realise in a challenging economic environment, particularly by the Public Sector. <br><br>
+
+I would highly recommend Diego as an innovator who will always be driven to be one step ahead of the market. The wise move is to invest in his ideas.<br><br>
+
+<strong>Iain McKay</strong> — Chief Operating Officer (COO), EurekaStep</blockquote>
+
+<h3>Web Developer</h3>
+<p><strong>Digital Media & Motion</strong> ⏳ Sep 2001 – Aug 2003</p>
+
+<h4>Recomendation:</h4>
+<blockquote>Diego is an extremely capable and dependable problem-solver and has wide-ranging experience in the delivery of technical solutions over the Internet.<br><br>
+<strong>Dan White</strong> — Development Manager, Digital Media & Motion</blockquote>
 
 </details>
 
