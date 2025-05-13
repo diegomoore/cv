@@ -1,13 +1,10 @@
 <link type="text/css" rel="stylesheet" href="assets/style.css" />
-<blockquote id="strapline">
-Head of Engineering — Digital Transformation Leader — Venture Builder
-</blockquote>
+> Head of Engineering — Digital Transformation Leader — Venture Builder <br>
+> <diego@mibstar.co.uk> 🔗 [LinkedIn](http://www.linkedin.com/in/diegomoore) 🌎 [mibstar.co.uk](http://www.mibstar.co.uk)📍W/Sussex, UK
 
 # <img src="assets/profile-picture-small.png" alt="Profile-Picture" id="top">Diego Moore
 
-<diego@mibstar.co.uk> 🔗 [LinkedIn](http://www.linkedin.com/in/diegomoore) 🌎 [mibstar.co.uk](http://www.mibstar.co.uk)📍W/Sussex, UK
-
-<nav><strong>Jump to:</strong> <a href="#professional-experience">Professional Experience</a> ⤦ <a href="#skills">Skills</a> ⤦ <a href="#education">Education</a> ⤦ <a href="#awards">Awards</a> ⤦ </nav>
+<nav><strong>Jump to:</strong> <a href="#professional-experience">Professional Experience</a> ⤦ <a href="#skills">Skills</a> ⤦ <a href="#education">Education</a> ⤦ <a href="#awards">Awards</a> ⤦ <a href="Diego-Moore-CV.pdf">Print PDF</a> 🖨️ </nav>
 
 ## Summary
 
@@ -86,7 +83,6 @@ Establishing modern development practices, leveraging new tooling (Atlassian, AW
 
 **Key Clients:** ![](assets/key-clients/the-unit.svg "Key Clients")
 
-
 ### Consultancy ![mibstar](assets/logos/mibstar.svg "Mibstar Ventures logo")
 
 **Mibstar Technologies** 📍 London ⏳ Mar 2015 – Apr 2015
@@ -113,9 +109,10 @@ Gathering input from technical analysts and platform leads, I established best p
 
 <blockquote>Diego is great to work with, he brings attention to detail and insights into his work from the experience has from working on so many projects. He is keen to bring people together and work as a team to deliver... <br><br>
 
-I find Diego is hard-working and very keen. I can recommend him as he is great to work with. <br>
+I find Diego is hard-working and very keen. I can recommend him as he is great to work with. <br><br>
 
 <strong>Hardip Bhamra</strong> — Managing Director (UK), Precedent</blockquote>
+
 </details>
 
 ### Director of Technology ![zemoga](assets/logos/zemoga.svg "Zemoga logo")
@@ -142,13 +139,14 @@ Other areas of responsibilities included ownership of the hosting infrastructure
 
 <blockquote>A very difficult challenge is to find a senior technologist that can lead a team within a creative culture. If you see Diego for the first time you would think he's an artist, but behind his coolness lies technical genius...or technical creative genius I must say. I witnessed first hand how he successfully managed to deliver high quality projects during high stress circumstances for high level global brands. He proved effective integration with visual design and UI development distributed teams while manoeuvring ever changing client requirements...all without loosing sight of his integrity and leadership character. <br><br>
 
-If you are looking for technical creative genius, I strongly suggest you don't waste the opportunity to have Diego on your team. <br>
+If you are looking for technical creative genius, I strongly suggest you don't waste the opportunity to have Diego on your team. <br><br>
 <strong>Alejandro Gomez</strong> — Founder, Zemoga
 
 <hr>
 
 Diego was a joy to work with, helping illustrate complex technical problems in easy language and clear solutions <br><br>
 <strong>Chris Altman</strong> — Director of International Digital Media - A+E Networks, NY</blockquote>
+
 </details>
 
 ### Director Application Development ![zemoga](assets/logos/zemoga.svg "Zemoga logo")
@@ -168,6 +166,7 @@ Working closely with the US Sales Team on pitches and technical pre-sales suppor
 <blockquote>Diego is the technologist that you want on your team. I've forever been impressed with his dedication, quick (and correct) decision making, dedication to his work and team. To manage development with very short to long timelines, you need someone with the high level of discipline and care that Diego brings to the table. He handles rapidly changing requirements with the level of agility that is required, yet is also keen on making sure that everything is well considered before moving forward. <br><br>
 Of all the managers I've hired over the years, Diego will always be in the top of the list, and I enjoy watching him advance as time goes on.<br><br>
 <strong>Dennis Portello</strong> — CTO, Zemoga</blockquote>
+
 </details>
 
 ### Application & Systems Architect ![parliament](assets/logos/parliament.svg "UK Parliament logo")

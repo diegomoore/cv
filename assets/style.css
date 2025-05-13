@@ -4,7 +4,7 @@
 
 	details, details > * { display:none !important; }
 	details { display:none; margin: 0 !important; }
-	nav, body>p:last-of-type
+	nav, body>p:last-of-type, body>hr:last-of-type 
 		{ display:none; margin: 0; }
 
     img[src*="logos"] {
@@ -16,8 +16,9 @@
 
     @page {
       size: A4; /* DIN A4 standard, Europe */
-      margin: 0;
+      margin: 0in;
     }
+
     html, body {
         width: 210mm;
         /* height: 297mm; */
@@ -42,19 +43,22 @@ h1, h3, h4 {color:#0062c9;}
     margin: 0 !important;
 }
 
-h1#diego-moore{ font-size:1.4rem; margin-bottom:-40px; display: block;}
+h1#diego-moore{ font-size:1.4rem; margin: 0 0 -40px 1rem; display: block;}
 h2 		{ font-size:1.3rem; color:#013f76; }
 img 	{ margin-left:1rem; vertical-align:middle;}
 ul  	{ list-style-type: circle;}
 
-h1~p:nth-of-type(1), nav {
+h1#diego-moore~p:nth-of-type(1), nav {
     text-align:right;
+    float:right;
 }
 
 blockquote { font-style: italic}
-blockquote#strapline { 
+blockquote strong { padding-left:1rem;}
+blockquote:nth-of-type(1) { 
 	float:right; 
-	margin-top:70px; color:#013f76; 
+    letter-spacing: -1px;
+	margin-top:42px; color:#013f76; 
 	font-style: italic;}
 
 p a:after {
@@ -86,9 +90,7 @@ details[open] > summary {
     color:#0062c9;
 }
 
-details[open] > summary {
-    margin-bottom: 0.5rem;
-}
+details[open] > summary { margin-bottom: 0.5rem;}
 
 details blockquote { letter-spacing: normal; }
 
@@ -107,10 +109,9 @@ img[src*="key-clients/zemoga.svg"]
 img[src*="key-clients/eurekastep.svg"] { width:300px;}
 img[src*="key-clients/eurekastep2.svg"] { width:340px;}
 
-img[alt=Profile-Picture] { max-width: 120px;  margin: 0px 10px; vertical-align:middle; }
+img[alt=Profile-Picture] { max-width: 120px;  margin: 0px 20px 0 0; vertical-align:middle; }
 img[alt=monks] 			{ max-width: 200px; float:right;}
 img[alt=precedent], 
 img[alt=parliament]		{ max-width:150px; }
-img[alt=zemoga] 			{ max-width:125px; }
+img[alt=zemoga] 		{ max-width:125px; }
 img[alt=compassion] 	{ max-width:120px; margin: -1rem 1rem -0.5rem 0; vertical-align:bottom; float: left;}
-
