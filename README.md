@@ -196,6 +196,7 @@ Full CV can be found online:
 </div>
 
 <details id="2010">
+
 <summary>
 
 ## 2001 – 2010
@@ -238,8 +239,6 @@ Balanced inward facing responsibilities of Managing IT alongside the increasingl
 >
 > **Iain McKay** — Chief Operating Officer (COO), EurekaStep
 
-
-
 ### Web Developer
 **Digital Media & Motion** ⏳ Sep 2001 – Aug 2003
 
@@ -247,7 +246,6 @@ Balanced inward facing responsibilities of Managing IT alongside the increasingl
 > Diego is an extremely capable and dependable problem-solver and has wide-ranging experience in the delivery of technical solutions over the Internet.
 > 
 > **Dan White** — *Development Manager, Digital Media & Motion*
-
 
 </details>
 
