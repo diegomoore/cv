@@ -70,7 +70,7 @@ Duis magna vestibulum vehicula pretium euismod adipiscing consectetur parturient
 <div class="onlyPrint">
 <h2>2001 – 2010</h2>
 Full CV can be found online:
-<a href="http://diegomoore.github.io/CV">diegomoore.github.io/CV</a>
+<a href="http://diegomoore.github.io/CV/EXAMPLE">diegomoore.github.io/CV/EXAMPLE</a>
 </div>
 
 <details id="2010"><summary>
