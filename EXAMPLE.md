@@ -19,15 +19,19 @@
 
 ## Summary
 
+**PROS:**
+
+* You can add your custom domain [(configuring custom domains)](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site).
+* [Built-in analytics](https://github.blog/news-insights/product-news/introducing-github-traffic-analytics/)
+* It's simple to create a PDF version of this CV. 
+
+**CONS:**
+
+* Your CV will not be private. 
+
 Tristique scelerisque sapien suspendisse pharetra etiam id feugiat elementum ad scelerisque aliquam a condimentum mollis condimentum vestibulum eu curabitur natoque eros a suspendisse hendrerit est etiam ultrices odio. Duis magna vestibulum vehicula pretium euismod adipiscing consectetur parturient leo nisi nec habitasse ante massa a. Ut sed inceptos adipiscing quam est a cum rhoncus commodo habitasse parturient nam mauris dolor odio faucibus eleifend tincidunt scelerisque. 
 
 Mauris semper pretium a sapien odio dictum blandit conubia volutpat a a scelerisque class id justo suscipit. Faucibus leo tellus adipiscing quisque mi lobortis laoreet in adipiscing lacinia id vestibulum penatibus netus ullamcorper ultricies scelerisque taciti nam pharetra. Nibh litora ad placerat consectetur himenaeos a lacus lacus in a vestibulum iaculis a malesuada etiam augue in a torquent. 
-
-**SHORT LIST:**
-
-* Tristique scelerisque sapien suspendisse pharetra etiam id feugiat 
-* Elementum ad scelerisque aliquam a condimentum mollis
-* Condimentum vestibulum eu curabitur natoque eros a suspendisse 
 
 **SPACED OUT LIST:**
 
