@@ -7,7 +7,14 @@
 # <img src="assets/profile-picture-small.png" width="120" height="120" alt="Profile-Picture" id="top">Diego Moore
 
 <!-- Using HTML as I need to wrap this section to side it from Print version -->
-<nav><strong>Jump to:</strong> <a href="#professional-experience">Professional Experience</a> ⤦ <a href="#skills">Skills</a> ⤦ <a href="#education">Education</a> ⤦ <a href="#awards">Awards</a> ⤦ <a href="Diego-Moore-CV.pdf">Print PDF</a> 🖨️ </nav>
+<nav>
+<strong>Jump to:</strong> 
+<a href="#professional-experience">Professional Experience</a> ⤦ 
+<a href="#skills">Skills</a> ⤦ 
+<a href="#education">Education</a> ⤦ 
+<a href="#awards">Awards</a> ⤦ 
+<a href="Diego-Moore-CV.pdf">Print PDF</a> 🖨️ 
+</nav>
 
 ## Summary
 
