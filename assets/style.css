@@ -53,15 +53,14 @@ h2 		{ font-size:1.3rem; color:#013f76; }
 img 	{ margin-left:1rem; vertical-align:middle;}
 ul  	{ list-style-type: circle;}
 
-nav { text-align:right; float:right; }
-
 blockquote { font-style: italic}
 blockquote strong { padding-left:2rem;}
 
 blockquote:not(blockquote ~ blockquote):not(:has(blockquote) ~ blockquote):not(blockquote blockquote):not(blockquote ~ * blockquote):not(:has(blockquote) ~ * blockquote) {
 	float:right; 
-	margin-top:42px; color:#013f76; 
-	font-style: italic;}
+	margin-top:42px !important;
+    color:#013f76 !important; 
+}
 
 p a:after {
 	margin:0 2px 0 4px;
@@ -72,8 +71,8 @@ p a:after {
     height: 8px;
     content:"";
 }
+nav { text-align:right; float:right; margin-top:6px; }
 
-nav {margin-top:11px; }
 nav a:after { background-image:none; margin:0; width:0;}
 
 details {
