@@ -1,4 +1,5 @@
 <link type="text/css" rel="stylesheet" href="assets/style.css" />
+
 > Head of Engineering — Digital Transformation Leader — Venture Builder <br>
 > <diego@mibstar.co.uk> 🔗 [LinkedIn](http://www.linkedin.com/in/diegomoore) 🌎 [mibstar.co.uk](http://www.mibstar.co.uk)📍W/Sussex, UK
 
@@ -103,7 +104,7 @@ Gathering input from technical analysts and platform leads, I established best p
 
 **Key Clients:** ![](assets/key-clients/precedent.svg "Key Clients")
 
-<details open><summary>
+<details><summary>
 <h4>Reccomendation</h4>
 </summary>
 
@@ -133,7 +134,7 @@ Other areas of responsibilities included ownership of the hosting infrastructure
 
 **Key Clients:** ![](assets/key-clients/zemoga.svg "Key Clients")
 
-<details open><summary>
+<details><summary>
 <h4>Reccomendations</h4>
 </summary>
 
@@ -142,7 +143,7 @@ Other areas of responsibilities included ownership of the hosting infrastructure
 If you are looking for technical creative genius, I strongly suggest you don't waste the opportunity to have Diego on your team. <br><br>
 <strong>Alejandro Gomez</strong> — Founder, Zemoga
 
-<hr>
+</blockquote><blockquote>
 
 Diego was a joy to work with, helping illustrate complex technical problems in easy language and clear solutions <br><br>
 <strong>Chris Altman</strong> — Director of International Digital Media - A+E Networks, NY</blockquote>
@@ -159,7 +160,7 @@ Working closely with the US Sales Team on pitches and technical pre-sales suppor
 
 **Key Clients:** ![](assets/key-clients/zemoga2.svg "Key Clients")
 
-<details open><summary>
+<details><summary>
 <h4>Reccomendation</h4>
 </summary>
 

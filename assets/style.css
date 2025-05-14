@@ -43,7 +43,7 @@ h1, h3, h4 {color:#0062c9;}
     margin: 0 !important;
 }
 
-h1#diego-moore{ font-size:1.4rem; margin: 0 0 -40px 1rem; display: block;}
+h1#diego-moore{ font-size:1.4rem; margin: 0 0 -40px 1rem; display: block; letter-spacing: -1px;}
 h2 		{ font-size:1.3rem; color:#013f76; }
 img 	{ margin-left:1rem; vertical-align:middle;}
 ul  	{ list-style-type: circle;}
@@ -51,10 +51,10 @@ ul  	{ list-style-type: circle;}
 nav { text-align:right; float:right; }
 
 blockquote { font-style: italic}
-blockquote strong { padding-left:1rem;}
-blockquote:nth-of-type(1) { 
+blockquote strong { padding-left:2rem;}
+
+blockquote:not(blockquote ~ blockquote):not(:has(blockquote) ~ blockquote):not(blockquote blockquote):not(blockquote ~ * blockquote):not(:has(blockquote) ~ * blockquote) {
 	float:right; 
-    letter-spacing: -1px;
 	margin-top:42px; color:#013f76; 
 	font-style: italic;}
 
