@@ -3,8 +3,10 @@
 > **Head of Engineering — Digital Transformation Leader — Venture Builder** <br>
 > <diego@mibstar.co.uk> 🔗 [LinkedIn](http://www.linkedin.com/in/diegomoore) 🌎 [mibstar.co.uk](http://www.mibstar.co.uk)📍W/Sussex, UK
 
+<!-- Using HTML for the profile picture to add id="top" for the back to top link to work.  -->
 # <img src="assets/profile-picture-small.png" width="120" height="120" alt="Profile-Picture" id="top">Diego Moore
 
+<!-- Using HTML as I need to wrap this section to side it from Print version -->
 <nav><strong>Jump to:</strong> <a href="#professional-experience">Professional Experience</a> ⤦ <a href="#skills">Skills</a> ⤦ <a href="#education">Education</a> ⤦ <a href="#awards">Awards</a> ⤦ <a href="Diego-Moore-CV.pdf">Print PDF</a> 🖨️ </nav>
 
 ## Summary
@@ -104,6 +106,8 @@ Gathering input from technical analysts and platform leads, I established best p
 
 **Key Clients:** ![](assets/key-clients/precedent.svg "Key Clients")
 
+<!-- Using the <details> & <summary> tags to hide references by default. It's possible to open them via <details open>. Sadly I have to use HTML within them.  -->
+
 <details><summary>
 <h4>Reccomendation</h4>
 </summary>
@@ -184,6 +188,7 @@ One of the key objectives of this Procedural Data programme was to enrich data c
 
 As such I was responsible for defining, presenting and getting approval of the Product & Solution options papers and their subsequent High Level Designs through the Enterprise Architecture Board. This included the data schema definitions for core data (People, Parliamentary Questions, Written Statements, etc) that would be published on [data.parliament.uk](http://data.parliament.uk)
 
+<!-- DIV with link to full CV just for Print version  -->
 <div class="onlyPrint">
 <h2>2001 – 2010</h2>
 Full CV can be found online:
