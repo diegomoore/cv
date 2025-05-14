@@ -11,8 +11,8 @@
 <strong>Jump to:</strong> 
 <a href="#professional-experience">Professional Experience</a> ⤦ 
 <a href="#skills">Skills</a> ⤦ 
-<a href="#education">Education</a> ⤦ 
-<a href="#awards">Awards</a> ⤦ 
+<a href="#-education">Education</a> ⤦ 
+<a href="#-awards">Awards</a> ⤦ 
 <a href="EXAMPLE-CV.pdf">Print PDF</a> 🖨️ 
 </nav>
 
