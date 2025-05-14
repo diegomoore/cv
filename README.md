@@ -3,7 +3,7 @@
 > Head of Engineering — Digital Transformation Leader — Venture Builder <br>
 > <diego@mibstar.co.uk> 🔗 [LinkedIn](http://www.linkedin.com/in/diegomoore) 🌎 [mibstar.co.uk](http://www.mibstar.co.uk)📍W/Sussex, UK
 
-# <img src="assets/profile-picture-small.png" alt="Profile-Picture" id="top">Diego Moore
+# <img src="assets/profile-picture-small.png" width="120" height="120" alt="Profile-Picture" id="top">Diego Moore
 
 <nav><strong>Jump to:</strong> <a href="#professional-experience">Professional Experience</a> ⤦ <a href="#skills">Skills</a> ⤦ <a href="#education">Education</a> ⤦ <a href="#awards">Awards</a> ⤦ <a href="Diego-Moore-CV.pdf">Print PDF</a> 🖨️ </nav>
 

@@ -43,7 +43,12 @@ h1, h3, h4 {color:#0062c9;}
     margin: 0 !important;
 }
 
-h1#diego-moore{ font-size:1.4rem; margin: 0 0 -40px 1rem; display: block; letter-spacing: -1px;}
+h1#diego-moore{ 
+    font-size:1.4rem; 
+    padding: 0 0 20px 0;
+    letter-spacing: -1px;
+    margin: 0 0 24px 0;}
+
 h2 		{ font-size:1.3rem; color:#013f76; }
 img 	{ margin-left:1rem; vertical-align:middle;}
 ul  	{ list-style-type: circle;}
@@ -68,6 +73,7 @@ p a:after {
     content:"";
 }
 
+nav {margin-top:11px; }
 nav a:after { background-image:none; margin:0; width:0;}
 
 details {
