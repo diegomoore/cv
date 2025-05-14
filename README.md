@@ -278,4 +278,4 @@ I would highly recommend Diego as an innovator who will always be driven to be o
 
 ---
 
-<nav><p>↑ <a href=#top">Back to Top</a></p></nav>
+<nav>↑ <a href="#top">Back to Top</a></nav>
