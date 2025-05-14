@@ -1,6 +1,6 @@
 <link type="text/css" rel="stylesheet" href="assets/style.css" />
 
-> Head of Engineering — Digital Transformation Leader — Venture Builder <br>
+> **Head of Engineering — Digital Transformation Leader — Venture Builder** <br>
 > <diego@mibstar.co.uk> 🔗 [LinkedIn](http://www.linkedin.com/in/diegomoore) 🌎 [mibstar.co.uk](http://www.mibstar.co.uk)📍W/Sussex, UK
 
 # <img src="assets/profile-picture-small.png" width="120" height="120" alt="Profile-Picture" id="top">Diego Moore

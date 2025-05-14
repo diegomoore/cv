@@ -58,9 +58,11 @@ blockquote strong { padding-left:2rem;}
 
 blockquote:not(blockquote ~ blockquote):not(:has(blockquote) ~ blockquote):not(blockquote blockquote):not(blockquote ~ * blockquote):not(:has(blockquote) ~ * blockquote) {
 	float:right; 
-	margin-top:42px !important;
-    color:#013f76 !important; 
+    margin-top: 42px !important;
+    color: #013f76 !important; 
+    letter-spacing: -1px;
 }
+blockquote:not(blockquote ~ blockquote):not(:has(blockquote) ~ blockquote):not(blockquote blockquote):not(blockquote ~ * blockquote):not(:has(blockquote) ~ * blockquote) strong {padding-left: 0px;}
 
 p a:after {
 	margin:0 2px 0 4px;
