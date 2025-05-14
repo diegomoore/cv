@@ -47,7 +47,11 @@ h1, h3, h4 {color:#0062c9;}
     margin: 0 !important;
 }
 
-h1#diego-moore{ 
+/* Markdown automatically creates ID based on text.
+   If you're putting your name remember to updates this  */
+
+h1#diego-moore,
+h1#name-surname {  
     font-size:1.4rem; 
     padding: 0 0 20px 0;
     /* Reduce letter spacing to avoid wrapping in print PDF. */
@@ -110,7 +114,7 @@ details blockquote { letter-spacing: normal; }
 
 /* Default width for logos */ 
 img[src*="logos"],
-img[Alt="ACME"] {
+img[alt="ACME"] {
     width: 100%;
     max-width: 110px;
     height: auto;
