@@ -1,5 +1,4 @@
 <link type="text/css" rel="stylesheet" href="assets/style.css" />
-<link rel="author" href="humans.txt" />
 
 > **Head of Engineering — Digital Transformation Leader — Venture Builder** <br>
 > <diego@mibstar.co.uk> 🔗 [LinkedIn](http://www.linkedin.com/in/diegomoore) 🌎 [mibstar.co.uk](http://www.mibstar.co.uk)📍W/Sussex, UK
@@ -241,8 +240,8 @@ I would highly recommend Diego as an innovator who will always be driven to be o
 <strong>Dan White</strong> — Development Manager, Digital Media & Motion</blockquote>
 </details>
 
-## Skills
-### Languages
+##  Skills
+### 💬 Languages
 🇬🇧 **English** – Native / Professional 🇪🇸 **Spanish** – Native / Bilingual / Professional
 
 ### Hard skills:
@@ -268,7 +267,7 @@ I would highly recommend Diego as an innovator who will always be driven to be o
 * Empathy & Self awareness
 * Financial Literacy
 
-## Education
+## 👨🏼‍🎓 Education
 * **The 21 Irrefutable Laws of Leadership, John Maxwell** — Year long effective leadership course, using real-life examples and insights gained from his decades of experience as a leadership coach.
 
 * **Leadership Masterclass**, Hillsong London — A 7 week programme covering leadership excellence, high performance behaviours, developing leadership style & value proposition, excelling in teamwork and motivating others, communication skills developing personal confidence and building strong and effective relationships.
@@ -277,7 +276,7 @@ I would highly recommend Diego as an innovator who will always be driven to be o
 
 * **A-Levels**: Design & Tech, Electronics, Spanish, Maths, ICT
 
-## Awards
+## 🏆 Awards
 * **Finalist at Cannes** - As IT Manager for EurekaStep, my last involvement was a significant one – representing the company in a prestigious competition sponsored by the BBC and offered exclusively to its preferred supplier list on emerging Web 2.0 technologies.
 
 * Built several hand-coded websites towards which I had began to work on before I had left college. One of the sites won an award from the South East England Development Agency (SEEDA)
