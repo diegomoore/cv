@@ -1,0 +1,26 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# AUTHORS
+
+    Diego Moore
+
+# INSPIRATION
+
+    CV'S are _meant to be_ 2-3 pages long yet nobody seems to print them these days. 
+    
+    After learning to use Scribus (https://www.scribus.net) to create a pixel perfect 
+    CV it was too much hassle to maintain and integrate basic text proofing tools. 
+    
+    Turns out Markdown can generate decent print documents. Now this repository is 
+    the source of both the responsive site and a PDF print version using the Print to 
+    PDF feature directly from MacDown. 
+
+    GitHub also provides basic analytics. 
+
+# TECHNOLOGY COLOPHON
+
+    GitHub Pages https://pages.github.com
+    GitHub Flavoured Markdown (GFM) https://github.github.com/gfm/
+    MacDown markdown editor https://macdown.uranusjr.com
+    Inkscape to create SVG images https://inkscape.org/

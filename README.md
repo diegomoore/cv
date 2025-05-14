@@ -1,4 +1,5 @@
 <link type="text/css" rel="stylesheet" href="assets/style.css" />
+<link rel="author" href="humans.txt" />
 
 > **Head of Engineering — Digital Transformation Leader — Venture Builder** <br>
 > <diego@mibstar.co.uk> 🔗 [LinkedIn](http://www.linkedin.com/in/diegomoore) 🌎 [mibstar.co.uk](http://www.mibstar.co.uk)📍W/Sussex, UK
