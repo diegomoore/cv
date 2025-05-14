@@ -164,7 +164,8 @@ Working closely with the US Sales Team on pitches and technical pre-sales suppor
 <h4>Reccomendation</h4>
 </summary>
 
-<blockquote>Diego is the technologist that you want on your team. I've forever been impressed with his dedication, quick (and correct) decision making, dedication to his work and team. To manage development with very short to long timelines, you need someone with the high level of discipline and care that Diego brings to the table. He handles rapidly changing requirements with the level of agility that is required, yet is also keen on making sure that everything is well considered before moving forward. <br><br>
+<blockquote>Diego is the technologist that you want on your team. I've forever been impressed with his dedication, quick (and correct) decision making, dedication to his work and team. To manage development with very short to long timelines, you need someone with the high level of discipline and care that Diego brings to the table. <br><br>
+He handles rapidly changing requirements with the level of agility that is required, yet is also keen on making sure that everything is well considered before moving forward. <br><br>
 Of all the managers I've hired over the years, Diego will always be in the top of the list, and I enjoy watching him advance as time goes on.<br><br>
 <strong>Dennis Portello</strong> — CTO, Zemoga</blockquote>
 
@@ -277,4 +278,4 @@ I would highly recommend Diego as an innovator who will always be driven to be o
 
 ---
 
-[Back to Top ↑](#top)
+<nav> ↑ <a href=#top">Back to Top</a></nav>
