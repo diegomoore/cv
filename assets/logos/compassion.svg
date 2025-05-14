@@ -6,11 +6,11 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   viewBox="0 0 120 43.552242"
+   viewBox="0 0 122.45383 45.797611"
    xml:space="preserve"
    sodipodi:docname="compassion.svg"
-   width="120"
-   height="43.552242"
+   width="122.45383"
+   height="45.797611"
    inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,13 +27,13 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    inkscape:clip-to-page="false"
-   inkscape:zoom="0.79875132"
-   inkscape:cx="44.444371"
-   inkscape:cy="157.12024"
-   inkscape:window-width="1512"
-   inkscape:window-height="916"
+   inkscape:zoom="6.6428451"
+   inkscape:cx="30.032312"
+   inkscape:cy="23.860258"
+   inkscape:window-width="1800"
+   inkscape:window-height="1098"
    inkscape:window-x="0"
-   inkscape:window-y="38"
+   inkscape:window-y="-116"
    inkscape:window-maximized="0"
    inkscape:current-layer="Layer_1" />
 <style
@@ -42,9 +42,15 @@
 	.st0{fill:#231F20;}
 	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#231F20;}
 </style>
-<g
+<rect
+   style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.13079;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+   id="rect1"
+   width="121.32304"
+   height="44.666821"
+   x="0.565395"
+   y="0.565395" /><g
    id="g13"
-   transform="matrix(0.15422182,0,0,0.15422182,-1.1720858,-40.221051)">
+   transform="matrix(0.15422182,0,0,0.15422182,0.22663327,-39.109228)">
 	<g
    id="g2">
 		<defs
