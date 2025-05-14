@@ -11,6 +11,7 @@
 <strong>Jump to:</strong> 
 <a href="#professional-experience">Professional Experience</a> ⤦ 
 <a href="#skills">Skills</a> ⤦ 
+<!-- As Education and Awards have emojis the links need a dash -->
 <a href="#-education">Education</a> ⤦ 
 <a href="#-awards">Awards</a> ⤦ 
 <a href="Diego-Moore-CV.pdf">Print PDF</a> 🖨️ 
