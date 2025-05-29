@@ -102,9 +102,20 @@ Full CV can be found online:
 </details>
 
 ##  Skills
+
+### Heading 3
 * Tristique scelerisque sapien suspendisse pharetra etiam id feugiat 
 * Elementum ad scelerisque aliquam a condimentum mollis
 * Condimentum vestibulum eu curabitur natoque eros a suspendisse 
+
+#### Heading 4
+* Tristique scelerisque sapien 
+* Suspendisse pharetra etiam id 
+* Feugiat elementum ad scelerisque 
+* Aliquam a condimentum mollis
+* Condimentum vestibulum eu 
+* curabitur natoque eros a suspendisse 
+
 
 ### 💬 Languages:
 🇬🇧 **English** – Native / Professional 🇪🇸 **ESPERANTO** – Native / Bilingual / Professional

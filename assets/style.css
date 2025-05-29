@@ -16,7 +16,6 @@
 
     @page {
       size: A4; /* DIN A4 standard, Europe */
-      margin: 0in;
     }
 
     html, body {
@@ -28,11 +27,6 @@
         overflow: visible;
     }
 
-    /* TODO: I'm printing form Apple MacDown but however I try the 1st page had a larger top margin */
-    body {
-        padding-top: 0mm;
-        margin-top: 0mm; 
-    }
 }
 
 @media screen {    
@@ -132,8 +126,32 @@ img[alt=compassion] 	{ max-width:120px; margin: -1rem 1rem -0.5rem 0; vertical-a
 
 img[src*="key-clients/"]                { width:500px; }
 
+img[src*="icons/svg"], img[src*="icons/32"]   { width:24px; margin:0 0.5rem 0.25rem 0.25rem;}
+
+img[src*="icons/svg/roku.svg"] 		{ width:36px; }
+
 img[src*="key-clients/the-unit.svg"],
 img[src*="key-clients/precedent.svg"],
 img[src*="key-clients/zemoga.svg"]      { width: 400px; }
 img[src*="key-clients/eurekastep.svg"]  { width: 300px; }
 img[src*="key-clients/eurekastep2.svg"] { width: 340px; }
+
+h4 { margin:0.5rem 0 ; padding: 0.5rem 0; color: #666}
+
+/* ANY UL after the H4 will end up with two columns */
+h4 ~ ul {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    margin-top: 0;
+    padding-top: 0;
+    column-gap: 30px;;
+}
+
+h2 + ul {
+    columns: 1;
+    -webkit-columns: 1;
+    -moz-columns: 1;
+    margin-top: 0;
+    padding-top: 0;
+}

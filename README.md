@@ -19,10 +19,10 @@
 
 ## Summary
 
-Highly versatile Polymath Technologist with a strong background in building products in digital agencies since the dawn of the 2001 dotcom era. As a self-taught expert with a passion for technology and aesthetics, I excel in designing and delivering polished user experiences (UX) and leveraging my creative spark to drive innovative solutions.
+A highly versatile Polymath Technologist with more than 24 years of experience delivering innovative digital products across agencies, startups, and enterprise environments. Able to bring a unique blend of technical depth, creative vision, and strategic thinking — shaping polished user experiences and scalable architectures across diverse technology stacks (.NET, LAMP, Java, MACH) and platforms (CMS, e-commerce, CRM, Mobile, IoT, Cloud Native).
 
-At 13, I began building and selling PCs at school. Over the past 24+ years, I've honed my skills across multiple technology stacks (.NET, LAMP, Java, MACH) and platforms (Enterprise CMS, e-commerce, CRM, Mobile, IoT,
-Cloud Native, etc.). My expertise extends to pre-sales, consulting, meticulous product road-maps, the vision through software architecture, and executing it all with strong team leadership.
+With a proven track record in pre-sales, consulting, and full product lifecycle delivery, I thrive in fast-paced, high-impact environments. I posses a leadership style that is both hands-on and collaborative, fostering high-performing teams and driving excellence in engineering practices.
+
 
 **Key Strengths:**
 
@@ -248,27 +248,92 @@ I would highly recommend Diego as an innovator who will always be driven to be o
 <strong>Dan White</strong> — Development Manager, Digital Media & Motion</blockquote>
 </details>
 
-##  Skills
+## Skills
 ### 💬 Languages
 🇬🇧 **English** – Native / Professional 🇪🇸 **Spanish** – Native / Bilingual / Professional
 
-### Hard skills:
+### Hard skills
+
+#### Software Development
+
+* ![Atlassian](assets/icons/svg/atlassian.svg "Atlassian logo")
+Atlassian Jira / Confluence / Notion 
+* ![GitHub](assets/icons/svg/github.svg "GitHub logo")
+GitHub / Stash / Bitbucket
+* ![PHP](assets/icons/svg/php.svg "PHP logo")
+![DOTNET](assets/icons/svg/microsoft-net.svg ".NET logo")
+![CSHARP](assets/icons/svg/c-sharp.svg "C# logo")
+![VSudio](assets/icons/svg/visual-studio.svg "Visual Studio logo")
+Visual Studio 
+* ![GRAPHQL](assets/icons/svg/graphql.svg "GraphQL logo")
+GraphQL & RESTFull API Design 
+*  Enterprise Architecture / UML / C4 Model
 * Software Development Life Cycle
 * Large Scale Agile
-* Lean / Agile 
 * Architecture Definition (C4 Model)
 * Technical Product Definition & Development
 * Managed Capacity (Offshore / Nearshore)
-* Compliance (ISO, PCI, SoX, HIPAA, etc)
 
-**Tooling:**
 
-* Multi Vendor Native Cloud Development
-* Enterprise & Headless CMSs (Drupal /Sitecore / AEM / WordPress)
-* Enterprise Integration Platforms (EIP)
-* Salesforce, ERPs & Professional Services Automation (PSA)
+#### Data Persistence
 
-**Real (soft) skills:**
+ * ![MariaDB](assets/icons/svg/mariadb.svg "MariaDB logo") MariaDB 
+![PgSQL](assets/icons/svg/postgresql.svg "PostgreSQL logo") PostgreSQL
+ * ![MSSQL](assets/icons/svg/microsoft-sql-server.svg "SQL Server logo") Microsoft SQL Server / Reporting Server 
+ * ![Memcache](assets/icons/svg/memcached.svg "MariaDB logo") Memcached 
+![Redis](assets/icons/svg/redis.svg "Redis logo") Redis
+ * ![eXistDB](assets/icons/32/existdb.png "eXistDB logo") eXistDB 
+
+#### <abbr title="Content Management System">CMS</abbr>'s
+
+ * ![Drupal](assets/icons/svg/drupal.svg "Drupal logo") Drupal (since v4.7)
+ * ![AEM](assets/icons/32/aem.png "AEM logo") Adobe Experience Manager
+ * ![Sitecore](assets/icons/svg/sitecore.svg "Sitecore logo") Sitecore 
+ * ![SharePoint](assets/icons/svg/microsoft-sharepoint.svg "SharePoint logo") Microsoft Sharepoint
+ * ![WordPress](assets/icons/svg/wordpress.svg "WordPress logo") WordPress <br><br>
+
+#### Devices
+
+ * ![AppleTV](assets/icons/svg/app-store.svg "App Store logo") 
+![XCode](assets/icons/svg/xcode.svg "Xcode logo")  Mobile / Xcode / 
+![iOS](assets/icons/svg/ios.svg "Xcode logo") 
+ * ![AppleTV](assets/icons/svg/apple-tv.svg "AppleTV logo") ![Roku](assets/icons/svg/roku.svg "Roku logo") OTT / Set-Top Boxes / Streaming
+ * ![IoT](assets/icons/svg/iot.svg "App Store logo") Internet of Things (IoT) 
+ * ![Balena](assets/icons/svg/balenaio.svg "Balena logo") Balena IO Device Management 
+
+#### Platforms
+
+ * ![SalesForce](assets/icons/svg/salesforce.svg "App Store logo") SalesForce <abbr title="Customer Relationship Mangement">CRM</abbr>
+ * ![Magento](assets/icons/svg/magento.svg "Magento logo") Magento e-commerce 
+ * ![WS02](assets/icons/svg/wso2.svg "WSo2 logo") WSo2 Middleware 
+ * ![Temporal](assets/icons/svg/temporal-io.svg "Temporal logo") Temporal durable execution 
+ * ![SOLR](assets/icons/svg/apache-solr.svg "SOLR logo") Apache SOLR 
+ * ![NewRelic](assets/icons/svg/new-relic.svg "NewRelic logo") New Relic <abbr title="Application Performance Management">APM</abbr> 
+ * ![GA](assets/icons/svg/google-analytics.svg "Google Analytics logo") Google Analytics 
+
+
+#### Infrastructure
+
+ * ![AWS](assets/icons/svg/aws.svg "AWS logo") Amazon Web Services 
+ * ![GCP](assets/icons/svg/google-cloud.svg "GCP logo") Google Cloud Compute 
+ * ![Linux](assets/icons/svg/linux.svg "Linux logo") Linux 
+![RedHat](assets/icons/svg/redhat.svg "RedHat logo") <abbr title="RedHad Enterprise Linux">RHEL</abbr>
+![Debian](assets/icons/svg/debian.svg "Debian logo") Debian 
+![Ubuntu](assets/icons/svg/ubuntu.svg "Ubuntu logo") Ubuntu 
+ * ![Jenkins](assets/icons/svg/jenkins.svg "Jenkins logo") Jenkins 
+ * ![Docker](assets/icons/svg/docker.svg "Docker logo") Docker 
+ * ![Jenkins](assets/icons/svg/nginx.svg "Nginx logo") Nginx 
+
+#### Security & Compliance
+
+ * <abbr title="Security Asertion Markup Language">SAML</abbr> / oAuth / <abbr title="Public Key Infrastructure">PKI</abbr>
+ * PCI-DSS Compliance 
+ * Penetration Testing 
+ * ISO-27001 
+ * <abbr title="Health Insurance Portability and Accountability Act">HIPAA</abbr>
+ * Sarbanes Oxley (SoX)
+
+### Real (soft) skills
 
 * Leadership (5 Levels by John Maxwell)
 * Distributed asynchronous collaboration
@@ -276,11 +341,11 @@ I would highly recommend Diego as an innovator who will always be driven to be o
 * Financial Literacy
 
 ## 👨🏼‍🎓 Education
-* **The 21 Irrefutable Laws of Leadership, John Maxwell** — Year long effective leadership course, using real-life examples and insights gained from his decades of experience as a leadership coach.
+* **Seth Godin’s AltMBA**, 3rd cohort – A transformative leadership workshop focused on helping people navigate change and uncertainty.
 
-* **Leadership Masterclass**, Hillsong London — A 7 week programme covering leadership excellence, high performance behaviours, developing leadership style & value proposition, excelling in teamwork and motivating others, communication skills developing personal confidence and building strong and effective relationships.
-
-* **Seth Godin’s AltMBA**, 3rd cohort — A transformative leadership workshop focused on helping people navigate change and uncertainty.
+* **The 21 Irrefutable Laws of Leadership, John Maxwell** – Year long effective leadership course, using real-life examples and insights gained from his decades of experience as a leadership coach.
+		
+* **Leadership Masterclass**, Hillsong London – A 7 week programme covering leadership excellence, high performance behaviours, developing leadership style & value proposition, excelling in teamwork and motivating others, communication skills developing personal confidence and building strong and effective relationships.
 
 * **A-Levels**: Design & Tech, Electronics, Spanish, Maths, ICT
 
@@ -290,5 +355,6 @@ I would highly recommend Diego as an innovator who will always be driven to be o
 * Built several hand-coded websites towards which I had began to work on before I had left college. One of the sites won an award from the South East England Development Agency (SEEDA)
 
 ---
+
 
 <nav>↑ <a href="#top">Back to Top</a></nav>
