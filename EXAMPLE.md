@@ -108,21 +108,30 @@ Full CV can be found online:
 * Elementum ad scelerisque aliquam a condimentum mollis
 * Condimentum vestibulum eu curabitur natoque eros a suspendisse 
 
-#### Heading 4
+#### Heading 4 lists have 2 columns
 * Tristique scelerisque sapien 
 * Suspendisse pharetra etiam id 
-* Feugiat elementum ad scelerisque 
-* Aliquam a condimentum mollis
+* Feugiat elementum ad scelerisque <br><br>
+* Aliquam a condimentum mollis 
 * Condimentum vestibulum eu 
-* curabitur natoque eros a suspendisse 
+* Curabitur natoque 
+* Eros a suspendisse
 
 
 ### 💬 Languages:
 🇬🇧 **English** – Native / Professional 🇪🇸 **ESPERANTO** – Native / Bilingual / Professional
 
 ## 👨🏼‍🎓 Education
+* Tristique scelerisque sapien suspendisse pharetra etiam id feugiat 
+* Elementum ad scelerisque aliquam a condimentum mollis
+* Condimentum vestibulum eu curabitur natoque eros a suspendisse 
 
 ## 🏆 Awards
+* Tristique scelerisque sapien suspendisse pharetra etiam id feugiat 
+
+* Elementum ad scelerisque aliquam a condimentum mollis
+
+* Condimentum vestibulum eu curabitur natoque eros a suspendisse 
 
 ---
 

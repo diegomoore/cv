@@ -356,5 +356,4 @@ GraphQL & RESTFull API Design
 
 ---
 
-
 <nav>↑ <a href="#top">Back to Top</a></nav>
