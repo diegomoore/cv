@@ -138,14 +138,26 @@ img[src*="key-clients/eurekastep2.svg"] { width: 340px; }
 
 h4 { margin:0.5rem 0 ; padding: 0.5rem 0; color: #666}
 
-/* UL after the H4 will end up with two columns */
-h4 ~ ul {
-    columns: 2;
-    -webkit-columns: 2;
-    -moz-columns: 2;
-    margin-top: 0;
-    padding-top: 0;
-    column-gap: 30px;;
+@media (min-width: 320px) {
+
+    /* UL after the H4 will end up with two columns */
+    h4 ~ ul {
+        columns: 2;
+        -webkit-columns: 2;
+        -moz-columns: 2;
+        margin-top: 0;
+        padding-top: 0;
+        column-gap: 30px;;
+    }
+}
+
+@media print {
+    h4 ~ ul {
+      column-count: 2 !important;
+      column-gap: 1rem;
+      margin-top: 0;
+      padding-top: 0;
+    }
 }
 
 /* reset subsequent ULs to one column */
