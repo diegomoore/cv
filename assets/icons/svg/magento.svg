@@ -1,1 +1,53 @@
-<svg id="logosandtypes_com" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150"><style>.st1{fill:#f26322}</style><path d="M0 0h150v150H0V0z" fill="none" id="Layer_3"/><g id="logosandtypes_com"><path class="st1" d="M75.7 10.3L20.9 42v63.2l15.6 9-.1-63.2 39.2-22.6L114.8 51v63.2l15.6-9V41.9z"/><path class="st1" d="M83.5 114.2l-7.9 4.6-7.8-4.5V51l-15.7 9 .1 63.3 23.4 13.5 23.5-13.5V60l-15.6-9z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg2"
+   viewBox="0 0 32 32"
+   version="1.1"
+   sodipodi:docname="magento.svg"
+   width="32"
+   height="32"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.1177918"
+     inkscape:cx="286.27871"
+     inkscape:cy="72.016989"
+     inkscape:window-width="1800"
+     inkscape:window-height="1098"
+     inkscape:window-x="0"
+     inkscape:window-y="71"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <style
+     id="style1">.st1{fill:#f26322}</style>
+  <path
+     d="M 0,0 H 32 V 32 H 0 Z"
+     fill="none"
+     id="Layer_3"
+     style="stroke-width:0.213333" />
+  <g
+     id="logosandtypes_com"
+     transform="scale(0.21333333)">
+    <path
+       class="st1"
+       d="M 75.7,10.3 20.9,42 v 63.2 l 15.6,9 L 36.4,51 75.6,28.4 114.8,51 v 63.2 l 15.6,-9 V 41.9 Z"
+       id="path1" />
+    <path
+       class="st1"
+       d="m 83.5,114.2 -7.9,4.6 -7.8,-4.5 V 51 l -15.7,9 0.1,63.3 23.4,13.5 23.5,-13.5 V 60 L 83.5,51 Z"
+       id="path2" />
+  </g>
+</svg>

@@ -1,1 +1,49 @@
-<svg viewBox="0 0 832.8 959.8" xmlns="http://www.w3.org/2000/svg" width="2169" height="2500"><path d="M672.6 332.3l160.2-92.4v480L416.4 959.8V775.2l256.2-147.6z" fill="#00ac69"/><path d="M416.4 184.6L160.2 332.3 0 239.9 416.4 0l416.4 239.9-160.2 92.4z" fill="#1ce783"/><path d="M256.2 572.3L0 424.6V239.9l416.4 240v479.9l-160.2-92.2z" fill="#1d252c"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 10.660832 12.28544"
+   width="27.765783"
+   height="32"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="new-relic.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.0218853"
+     inkscape:cx="11.790327"
+     inkscape:cy="79.128043"
+     inkscape:window-width="1800"
+     inkscape:window-height="1098"
+     inkscape:window-x="0"
+     inkscape:window-y="71"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3" />
+  <path
+     d="M 8.6100815,4.209161 10.660832,3.0263309 V 9.1709028 L 5.3304162,12.241909 V 9.8788087 L 8.6100815,7.9893528 Z"
+     fill="#00ac69"
+     id="path1"
+     style="stroke-width:0.0128012" />
+  <path
+     d="M 5.3304162,2.318425 2.0507509,4.209161 0,3.0263309 5.3304162,-0.04467497 10.660832,3.0263309 8.6100815,4.209161 Z"
+     fill="#1ce783"
+     id="path2"
+     style="stroke-width:0.0128012" />
+  <path
+     d="M 3.2796653,7.2814469 0,5.3907109 v -2.36438 l 5.3304162,3.0722859 v 6.1432922 l -2.0507509,-1.18027 z"
+     fill="#1d252c"
+     id="path3"
+     style="stroke-width:0.0128012" />
+</svg>
