@@ -14,7 +14,7 @@
 <!-- As Education and Awards have emojis the links need a dash -->
 <a href="#-education">Education</a> ⤦ 
 <a href="#-awards">Awards</a> ⤦ 
-<a href="Diego-Moore-CV.pdf">Print PDF</a> 🖨️ 
+<a href="Diego-Moore-Print-CV.pdf">Print PDF</a> 🖨️ 
 </nav>
 
 ## Summary
