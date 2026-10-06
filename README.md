@@ -34,7 +34,7 @@ With a proven track record in pre-sales, consulting, and full product lifecycle 
 
 ## Professional Experience
 
-### Founder & Principal Consultant ![mibstar](assets/logos/mibstar.svg "Mibstar Ventures logo")
+### Founder & Principal Consultant ![mibstar](assets/logos/Mibstar-logo.svg "Mibstar Ventures logo")
 
 **Mibstar Ventures** 📍 London ⏳ 2016 – Present
 
@@ -70,7 +70,7 @@ Having engaged previously on two occasions with Hello Daisy I was asked to come 
 * Validating the key building blocks of the stack with proof of concepts and hardware devices
 * Establishing 3rd party partnerships for the production phase including hardware manufacturers in China
 
-### Founder & Principal Consultant ![mibstar](assets/logos/mibstar.svg "Mibstar Ventures logo")
+### Founder & Principal Consultant ![mibstar](assets/logos/Mibstar-logo.svg "Mibstar Ventures logo")
 
 **Mibstar Ventures** 📍 London ⏳ Jun 2016 – Sep 2018
 
@@ -94,7 +94,7 @@ Establishing modern development practices, leveraging new tooling (Atlassian, AW
 
 **Key Clients:** ![](assets/key-clients/the-unit.svg "Key Clients")
 
-### Consultancy ![mibstar](assets/logos/mibstar.svg "Mibstar Ventures logo")
+### Consultancy ![mibstar](assets/logos/Mibstar-logo.svg "Mibstar Ventures logo")
 
 **Mibstar Technologies** 📍 London ⏳ Mar 2015 – Apr 2015
 
