@@ -1,7 +1,7 @@
 <link type="text/css" rel="stylesheet" href="assets/style.css" />
 
 > **Head of Engineering — Digital Transformation Leader — Venture Builder** <br>
-> <diego@mibstar.co.uk> 🔗 [LinkedIn](http://www.linkedin.com/in/diegomoore) 🌎 [mibstar.co.uk](http://www.mibstar.co.uk)📍W/Sussex, UK
+> <diego@mibstar.ventures> 🔗 [LinkedIn](http://www.linkedin.com/in/diegomoore) 🌎 [mibstar.ventures](http://mibstar.ventures)📍W/Sussex, UK
 
 <!-- Using HTML for the profile picture to add id="top" for the back to top link to work.  -->
 # <img src="assets/profile-picture-small.png" width="120" height="120" alt="Profile-Picture" id="top">Diego Moore
